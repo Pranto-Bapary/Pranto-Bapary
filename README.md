@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranto Bapary</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 <h3 align="center"> 🌱 I’m currently learning </h3>
 <p align="center">
@@ -12,14 +12,6 @@
   <p align="center">
     <a href="https://github.com/maruffahmed"><img src="https://img.shields.io/github/followers/maruffahmed.svg?label=GitHub&style=social" alt="GitHub"></a>
   </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/ashfe.pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfe.pranto" height="30" width="30" /></a>
-<a href="https://instagram.com/ashfe.pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashfe.pranto" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/ashfe-pranto-8714931a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfe-pranto-8714931a4" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/pranto200147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranto200147" height="30" width="30" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -40,4 +32,13 @@
   </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto-bapary&show_icons=true&locale=en&layout=compact" alt="pranto-bapary" /></p>
+  
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/ashfe.pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfe.pranto" height="25" width="25" /></a>
+<a href="https://instagram.com/ashfe.pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashfe.pranto" height="25" width="25" /></a>
+<a href="https://www.hackerrank.com/pranto200147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranto200147" height="25" width="25" /></a>
+ <a href="https://linkedin.com/in/ashfe-pranto-8714931a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfe-pranto-8714931a4" height="25" width="25" /></a>
+</p>
+
 
