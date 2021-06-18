@@ -10,7 +10,7 @@
 
 <h3 align="center"> 👨‍💻 All of my projects are available at <h3>
   <p align="center">
-    <a href="https://github.com/maruffahmed"><img src="https://img.shields.io/github/followers/maruffahmed.svg?label=GitHub&style=social" alt="GitHub"></a>
+    <a href="https://github.com/pranto-bapary"><img src="https://img.shields.io/github/followers/pranto-bapary.svg?label=GitHub&style=social" alt="GitHub"></a>
   </p>
 
 <h3 align="center">Languages and Tools:</h3>
